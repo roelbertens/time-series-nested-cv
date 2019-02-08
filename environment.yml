@@ -1,0 +1,13 @@
+name: timeseries-nested-cv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.6
+  - pandas==0.23
+  - pip
+  - setuptools
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - scikit-learn
